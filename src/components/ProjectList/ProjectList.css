@@ -1,0 +1,20 @@
+.project_list_container {
+  padding: 4px;
+  background-color: grey;
+  border-right: 1px white solid;
+  width: 30%;
+  min-height: 100%;
+}
+
+.project_heading {
+  margin: 5px;
+  text-align: center;
+  font-size: 30px;
+  color: white;
+}
+
+.Project_list {
+  margin: 5px;
+  background-color: rgb(50, 195, 205);
+  border-radius: 5px;
+}
